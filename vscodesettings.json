@@ -1,0 +1,47 @@
+{
+   "editor.fontSize": 14,
+   "editor.tabSize": 3,
+   "editor.fontWeight": "300",
+   "editor.lineHeight": 30,
+   "editor.letterSpacing": 0.3,
+   "terminal.external.osxExec": "Hyper.js",
+   "emmet.includeLanguages": {
+      "edge": "html",
+      "javascript": "javascriptreact"
+      // "javascript": "jsx"
+   },
+   "emmet.syntaxProfiles": {
+      "javascript": "html"
+   },
+   "emmet.triggerExpansionOnTab": true,
+   "workbench.colorTheme": "Andromeda",
+   "[css]": {},
+   "workbench.activityBar.visible": true,
+   "window.zoomLevel": 0,
+   "editor.formatOnSave": true,
+   "prettier.eslintIntegration": true,
+   "prettier.singleQuote": true,
+   "prettier.printWidth": 140,
+   "eslint.autoFixOnSave": true,
+   "eslint.alwaysShowStatus": true,
+   "prettier.disableLanguages": [
+      "vue",
+      "json",
+      "html"
+   ],
+   "workbench.startupEditor": "welcomePage",
+   "terminal.explorerKind": "external",
+   "terminal.integrated.shell.osx": "zsh",
+   "editor.wordWrap": "on",
+   "liveServer.settings.donotShowInfoMsg": true,
+   "liveServer.settings.CustomBrowser": "chrome",
+   "liveServer.settings.fullReload": true,
+   "theme-by-language.themes": {
+      "*": "Andromeda",
+      "html": "Cobalt2",
+      "scss": "Cobalt2"
+   },
+   "liveshare.featureSet": "insiders",
+   "liveServer.settings.donotVerifyTags": true,
+   "workbench.iconTheme": "vscode-icons"
+}
