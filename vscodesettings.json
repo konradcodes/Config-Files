@@ -67,6 +67,15 @@
   "prettier.eslintIntegration": true,
   "prettier.tslintIntegration": true,
   "prettier.stylelintIntegration": true,
+  "emmet.includeLanguages": {
+    "edge": "html",
+    "javascript": "javascriptreact"
+    // "javascript": "jsx"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
   "peacock.favoriteColors": [
     {
       "name": "Angular Red",
