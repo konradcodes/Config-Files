@@ -1,0 +1,16 @@
+- Auto Rename Tag
+- Better Comments
+- Bracket Pair Colorizer
+- Color Highlight
+- CSS Peek
+- ESLint
+- IntelliSense for CSS class names
+- JavaScript (ES6) Code Snippets
+- Live Sass Compiler
+- npm
+- open in browser
+- Path Intellisense
+- Prettier - Code formatter
+- Project Manager
+- vscode-faker
+- vscode-icons
