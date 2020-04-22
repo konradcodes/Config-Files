@@ -1,6 +1,11 @@
 - Auto Rename Tag
+- Andromeda
 - Better Comments
 - Bracket Pair Colorizer
+- Color Highlight
+- City Lights Icon Package
+- City Lights theme
+- Cobalt2 Theme Official
 - Color Highlight
 - CSS Peek
 - ESLint
@@ -14,3 +19,10 @@
 - Project Manager
 - vscode-faker
 - vscode-icons
+- Electron Vue
+- Electron Color Theme
+- ES7 React/Redux/GraphQL/React-Native snippets
+- vscode-styled-components
+- styled-components-snippets
+- JavaScript and TypeScript Nighthly
+
